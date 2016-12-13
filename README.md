@@ -1,3 +1,3 @@
 # ZCYAlgo
 
-## an Algo a day , keep Dc away !
+## An Algo a day !

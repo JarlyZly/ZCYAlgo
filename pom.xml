@@ -8,8 +8,11 @@
     <artifactId>ZCYAlgo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <properties>
+        <jdk.version>1.8</jdk.version>
+    </properties>
+
     <dependencies>
-        <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
